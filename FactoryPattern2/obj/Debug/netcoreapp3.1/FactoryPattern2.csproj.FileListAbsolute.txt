@@ -1,0 +1,12 @@
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\bin\Debug\netcoreapp3.1\FactoryPattern2.exe
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\bin\Debug\netcoreapp3.1\FactoryPattern2.deps.json
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\bin\Debug\netcoreapp3.1\FactoryPattern2.runtimeconfig.json
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\bin\Debug\netcoreapp3.1\FactoryPattern2.runtimeconfig.dev.json
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\bin\Debug\netcoreapp3.1\FactoryPattern2.dll
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\bin\Debug\netcoreapp3.1\FactoryPattern2.pdb
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\obj\Debug\netcoreapp3.1\FactoryPattern2.AssemblyInfoInputs.cache
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\obj\Debug\netcoreapp3.1\FactoryPattern2.AssemblyInfo.cs
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\obj\Debug\netcoreapp3.1\FactoryPattern2.csproj.CoreCompileInputs.cache
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\obj\Debug\netcoreapp3.1\FactoryPattern2.dll
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\obj\Debug\netcoreapp3.1\FactoryPattern2.pdb
+C:\Users\tjvin\Desktop\repos\FactoryPattern2\FactoryPattern2\obj\Debug\netcoreapp3.1\FactoryPattern2.genruntimeconfig.cache
